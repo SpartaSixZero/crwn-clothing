@@ -8,3 +8,4 @@ crwn-clothing is an e-commerce web site created using the following technologies
 4. Deployment and hosting on Heroku
 5. Leveraged GraphQL for fetching our data
 
+You can check out this link for the live url: https://crwn-live-marksun.herokuapp.com/
